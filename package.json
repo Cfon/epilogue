@@ -48,6 +48,6 @@
     "request": "^2.60.0",
     "restify": "^4.0.3",
     "sequelize": "^3.5.1",
-    "sqlite3": "^3.0.9"
+    "sqlite3": "^4.1.0"
   }
 }
